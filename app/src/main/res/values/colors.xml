@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="purple_200">#FFBB86FC</color>
+    <color name="purple_500">#FF6200EE</color>
+    <color name="purple_700">#FF3700B3</color>
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="teal_700">#FF018786</color>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="clr_Retrofit">#48b983</color>
+    <color name="clr_Volley">#1b1f23</color>
+    <color name="biru_muda">#00a7e1</color>
+    <color name="biru_tua">#0474ba</color>
+    <color name="orange_muda">#ffa630</color>
+    <color name="orange_tua">#f17720</color>
+    <color name="merah">#e22c2e</color>
+</resources>
